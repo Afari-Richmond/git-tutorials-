@@ -1,3 +1,3 @@
-## Hello everyone, welcome to my Git guide
-- Yo! John here
+## Welcome to git!
+- This is coming from dev-afari
 - I am adding thid from "feature"
